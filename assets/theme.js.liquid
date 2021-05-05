@@ -2774,3 +2774,13 @@ $(document).ready(function() {
   sections.register('search-template', theme.Search);
   sections.register('slideshow-section', theme.SlideshowSection);
 });
+
+/*---------------------------- Custom JS FROM HERE  ------------------------------------*/
+
+/*Currency selector*/
+
+$('#currency_form select').on('change', function(){
+  $('#currency_form').submit();
+});
+
+/*---------------END*/
