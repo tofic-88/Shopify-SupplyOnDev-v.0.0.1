@@ -6,6 +6,6 @@ form#currency_form {
   position: fixed;
   bottom: 3%;
   left: 2%;
-  border: 1px solid;
+  /*border: 1px solid;*/
   z-index: 999;
 }
