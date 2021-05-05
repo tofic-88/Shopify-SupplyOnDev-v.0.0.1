@@ -9,3 +9,8 @@ form#currency_form {
   /*border: 1px solid;*/
   z-index: 999;
 }
+
+.header-logo {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
