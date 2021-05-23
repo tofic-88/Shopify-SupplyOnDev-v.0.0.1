@@ -23,3 +23,7 @@ form#currency_form {
 .jdgm-rev-widg__header {
   display: none;
 }
+
+.jm-mfp-counter {
+  display: none;
+}
