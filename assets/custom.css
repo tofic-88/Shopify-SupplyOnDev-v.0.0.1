@@ -20,3 +20,6 @@ form#currency_form {
   padding-top: 0px;
 }
 */
+.jdgm-rev-widg__header {
+  display: none;
+}
